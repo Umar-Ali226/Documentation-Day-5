@@ -1,0 +1,9 @@
+Column1,Column2,Column3,Column4,Column8,Column9,Column10
+Test ID,Test Description,Test Steps,Result,Status,Severity level,Remarks
+TC001,Product List Page                ,Opens Product List Page > Verify Products       ,Product displayed ,Passed,High,Works as expected
+TC002,API Checking,Through Thunder Client,Status OK ,Passed,High,No error found
+TC003,Cart functionality,Adds products to cart > check them properly,Work as expected,Passed,Medium,Test Successful
+TC004,Responsiveness,Checks on multiple devices,Great !,Passed,Low,Test Successful
+TC005,Filter Method,Use filter methods multiple times,As expected,Passed,Medium,Handled gacefully 
+TC006,Pagination,Use pagination on across devices,Worked,Passed,High,No error found
+TC007,Search Bar,Use it,Not worked,Fail,Low,Error
